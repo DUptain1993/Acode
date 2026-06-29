@@ -941,7 +941,7 @@
         return;
       }
       sidebarApps.add(
-        "smart_toy",
+        "wand-sparkles",
         PLUGIN_ID,
         "Venice AI Wizard",
         buildPanel
